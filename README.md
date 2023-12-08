@@ -1,16 +1,25 @@
-# communicator
+# Communicator
 
-A new Flutter project.
+Simply, a better way to communicate!
 
-## Getting Started
+## Features:
 
-This project is a starting point for a Flutter application.
+- none yet
 
-A few resources to get you started if this is your first Flutter project:
+## Planned Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Chat-like experience for e-mails
+- Chat experience for messages
+- Support for SMS/MMS and e-mails
+- Supports mobile, desktop and web
+- Stores data securely
+- Support for following mail services:
+  - Generic IMAP/SMTP  
+  - iCloud
+  - GMail
+  - Outlook / Office 365
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Long-term features (may be changed in future):
+
+- support for Signal Protocol
+- published to Google Play, App Store
